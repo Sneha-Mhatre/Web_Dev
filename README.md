@@ -1,3 +1,2 @@
-# Web_Dev
-web development practice ,learning
+# Web practice ,learning
 <!--  -->
